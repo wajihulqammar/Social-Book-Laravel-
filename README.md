@@ -120,6 +120,10 @@ The platform allows users to connect, share content, communicate, and participat
 
 ---
 
+Pictures :
+
+<img width="304" height="380" alt="Screenshot 2026-03-05 214926" src="https://github.com/user-attachments/assets/237406cc-356a-44b2-8bf2-1a4e0fddaeb9" />
+
 ## 👨‍💻 Developer
 
 Wajih Ul Qammar  
